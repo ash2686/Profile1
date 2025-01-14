@@ -1,0 +1,3 @@
+Name: crafty admin
+email: craftedwithskill2202@gmail.com
+password: craftSkill
